@@ -1,7 +1,6 @@
 import streamlit as st
 import numpy as np
 import cv2
-from tensorflow.keras.applications.resnet50 import preprocess_input, decode_predictions
 from PIL import Image
 import os
 
