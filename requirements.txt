@@ -1,14 +1,6 @@
-<<<<<<< HEAD
 streamlit
 numpy
 pandas
 opencv-python
 tensorflow==2.15.0
-=======
-streamlit
-numpy
-pandas
-opencv-python
-tensorflow==2.15.0
->>>>>>> e1cb3e66a005a1ebf9e780b92828daf85d983294
 pillow
